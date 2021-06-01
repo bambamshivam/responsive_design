@@ -1,1 +1,1 @@
-# sample
+# This repository contains responsive webpages
